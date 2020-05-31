@@ -1,16 +1,14 @@
 # Development Strategy
 
-> `name-of-project`
+> `App-theme`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+Beginner friendly front-end project with a responsive HTML5 and CSS3 website template. It uses FlexboxGrid which is a lightweight Flexbox based grid system to align the elements easily and uses the same classes as the Bootstrap grid.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./images/wireframe_apptheme.png)
 
 ## 0. Set-Up
 
