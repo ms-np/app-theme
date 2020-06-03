@@ -97,21 +97,31 @@ This user story was developed locally on a brach called `features`
 * section paragraph styling (#features p)
 * image element styling (#features .fa)
 
-## 4.  __
+## 4. company and product summary
 
-__full user story description__
+__As a visitor I want to see what the company and it's product info__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `info`
 
 ### HTML
 
-what did you change in the HTML and why?
+* section elements with id's
+* row and col classes for the sections
+* image element
+* list heading
+* list with image element with fa-class
+* paragraph
+* form for subscription
 
 ### CSS
 
-what did you change in the CSS and why?
+* styling for the section id's (#info)
+* section headings styling
+* section lists layout styling
+* list items layout styling
+* the styling of the form input and button
 
 ## 5.  __
 
