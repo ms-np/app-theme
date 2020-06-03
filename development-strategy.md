@@ -76,21 +76,26 @@ This user story was developed locally on a brach called `showcase`
 * styling the heading and paragraph layout (#showcase .row)
 * media queries for the heading and background class responsive layout
 
-## 3.  __
+## 3.  product core features
 
-__full user story description__
+__As a visitor I want to see what the company product core features are__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `features`
 
 ### HTML
 
-what did you change in the HTML and why?
+* section element with an id, holding heading, paragraph, nested grid
+* row and col class for the section
+* row and col class for the nested grid elements
+* nested grid holding image element with fa-class, heading and paragraph element
 
 ### CSS
 
-what did you change in the CSS and why?
+* section heading styling (#features h2)
+* section paragraph styling (#features p)
+* image element styling (#features .fa)
 
 ## 4.  __
 
