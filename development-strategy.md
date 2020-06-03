@@ -52,21 +52,29 @@ This user story was developed locally on a brach called `header`
 * styling for the images (img)
 * footer styling  (#main-footer)
 
-## 2. __
+## 2. company showcase
 
-__full user story description__
+__As a visitor I want to see what the company represents__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `showcase`
 
 ### HTML
 
-what did you change in the HTML and why?
+* Section element with an id, holding:
+  * the heading with an inline class
+  * paragraph
+* row and col class
 
 ### CSS
 
-what did you change in the CSS and why?
+* styling for the section id (#showcase)
+* section heading styling
+* section paragraph styling
+* styling of the heading and paragraph background class (#showcase .showcase-content)
+* styling the heading and paragraph layout (#showcase .row)
+* media queries for the heading and background class responsive layout
 
 ## 3.  __
 
