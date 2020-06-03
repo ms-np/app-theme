@@ -164,35 +164,34 @@ This user story was developed locally on a brach called `about`
 * list items odd styling (.services ul li:nth-child(odd))
 * list items even styling (.services ul li:nth-child(even))
 
-## 6.  __
+## 6.  company contacts
 
-__full user story description__
-
-### Repo
-
-what branch(es) did you work on?
-
-### HTML
-
-what did you change in the HTML and why?
-
-### CSS
-
-what did you change in the CSS and why?
-
-## 7.  __
-
-__full user story description__
+__As a visitor I want to be able to contact the company__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `contact`
+
+### contact.html
+
+* create the file
+* add the services file template
+* change the page title
+* update the nav list item with the current  class
+* update the subheading section heading
+* change the section class
+* personalise the page content
 
 ### HTML
 
-what did you change in the HTML and why?
+* contact form with name input, email input, message input and submit button
 
 ### CSS
+
+* styling of the form
+* styling of the form inputs
+* styling of the form button
+* styling of the form labels
 
 ## Finishing Touches
 
