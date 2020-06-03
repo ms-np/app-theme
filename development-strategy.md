@@ -123,21 +123,46 @@ This user story was developed locally on a brach called `info`
 * list items layout styling
 * the styling of the form input and button
 
-## 5.  __
+## 5.  company and it's services
 
-__full user story description__
+__As a visitor I want to read detailed information about the company and it's services__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed locally on a brach called `about`
+
+### about.html
+
+* create the file
+* add the index file template
+* change the page title
+* update the nav list item with the current  class
+* remove excessive sections
+* personalise the page content
+
+### services.html
+
+* create the file
+* add the about file template
+* change the page title
+* update the nav list item with the current  class
+* personalise the page content
 
 ### HTML
 
-what did you change in the HTML and why?
+* section element with id for subheading
+* section element with id for inner pages and class for main text
+* heading with an inline class
+* section element with id for inner pages and class for services
+* list with headings and paragraphs for services
+* row and col classes for these sections
 
 ### CSS
 
-what did you change in the CSS and why?
+* styling of inner pages section id's (#page)
+* list items layout styling (.services ul li)
+* list items odd styling (.services ul li:nth-child(odd))
+* list items even styling (.services ul li:nth-child(even))
 
 ## 6.  __
 
@@ -155,8 +180,6 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## Finishing Touches
-
 ## 7.  __
 
 __full user story description__
@@ -170,6 +193,8 @@ what branch(es) did you work on?
 what did you change in the HTML and why?
 
 ### CSS
+
+## Finishing Touches
 
 what did you change in the CSS and why?
 
