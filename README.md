@@ -134,15 +134,15 @@ Find out the visual [graph of the development process](https://github.com/ms-np/
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` [folder](https://github.com/ms-np/app-theme/blob/master/LICENSE) for more information.
 
 
 
 <!-- CONTACT -->
 ## Authors
 
-Github Repo created by Nadia - [github profile](https://github.com/ms-np)
-Video Tutorial prepared by [Travery Media channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+Github Repo created by Nadia - [github profile](https://github.com/ms-np)  
+Video Tutorial prepared by [Travery Media channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)  
 Project Templates provided by [HackYourFuture Project and Project team](https://github.com/HackYourFutureBelgium/)
 
 
