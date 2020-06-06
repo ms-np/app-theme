@@ -122,6 +122,7 @@ This user story was developed locally on a brach called `info`
 * section lists layout styling
 * list items layout styling
 * the styling of the form input and button
+* styling for the images (img)
 
 ## 5.  company and it's services
 
@@ -146,6 +147,7 @@ This user story was developed locally on a brach called `about`
 * add the about file template
 * change the page title
 * update the nav list item with the current  class
+* update the heading of the subheading section
 * personalise the page content
 
 ### HTML
@@ -178,7 +180,7 @@ This user story was developed locally on a brach called `contact`
 * add the services file template
 * change the page title
 * update the nav list item with the current  class
-* update the subheading section heading
+* update the heading of the subheading section
 * change the section class
 * personalise the page content
 
@@ -195,10 +197,10 @@ This user story was developed locally on a brach called `contact`
 
 ## Finishing Touches
 
-what did you change in the CSS and why?
-
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
+- update Dev strategy with missed lines to the US description
+- update inner pages files with validators corrections
