@@ -66,7 +66,7 @@ img{
   height:600px;
 }
 
-#showcase h1{
+#showcase h2{
   font-size:50px;
   margin:0;
   padding-bottom:20px;
@@ -214,7 +214,7 @@ img{
 
 /* MEDIA QUERIES */
 @media(max-width:800px){
-  #showcase h1{
+  #showcase h2{
     font-size:30px;
   }
 }
